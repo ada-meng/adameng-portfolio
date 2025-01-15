@@ -4,7 +4,7 @@
 These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
 It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
 
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
+- Web page URL: [https://cmustudent.github.io/tswd-portfolio-templates/](https://ada-meng.github.io/adameng-portfolio/)
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
 # Portfolio
@@ -16,15 +16,9 @@ Hi! My name is Ada Meng. My pronouns are she/her, and I am in the MEIM program.
 # What I hope to learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
-1. List item #1
-2. List item #2
-3. List item #3
+1. How to use data to enhance storytelling
+2. How to use color in data visualization
 
-or...
-
-- List item #1
-- List item #2
-- List item #3
 
 # Portfolio
 
