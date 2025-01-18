@@ -13,6 +13,9 @@ This is my public portfolio for Telling Stories with Data at CMU!  Here's where 
 # About me
 Hi! My name is Ada Meng. My pronouns are she/her, and I am a first year master of Entertainment Industry Management Student at CMU. I am interested in international marketing particularly related to fashion and music.
 
+<img src="youngada.jpg" width="200"/>
+
+
 # What I hope to learn
 1. How to use data to enhance storytelling
 2. How to use color effectively in data visualization
