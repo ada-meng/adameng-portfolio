@@ -11,13 +11,11 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi! My name is Ada Meng. My pronouns are she/her, and I am in the MEIM program.
+Hi! My name is Ada Meng. My pronouns are she/her, and I am a first year master of Entertainment Industry Management Student at CMU. I am interested in international marketing particularly reltaed to fashion and music.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
 1. How to use data to enhance storytelling
-2. How to use color in data visualization
+2. How to use color effectively in data visualization
 
 
 # Portfolio
