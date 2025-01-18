@@ -23,4 +23,4 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 ## Final project
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
-Part III(final-project-part-three)
+[Part III](final-project-part-three)
