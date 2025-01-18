@@ -1,15 +1,5 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
-It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
-
-- Web page URL: [https://cmustudent.github.io/tswd-portfolio-templates/](https://ada-meng.github.io/adameng-portfolio/)
-- This repository: [https://github.com/cmustudent/tswd-portfolio-templates/](https://github.com/ada-meng/adameng-portfolio)
-
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
-
 # About me
 Hi! My name is Ada Meng. My pronouns are she/her, and I am a first year master of Entertainment Industry Management Student at CMU. I am interested in international marketing particularly related to fashion and music.
 
@@ -19,6 +9,7 @@ Hi! My name is Ada Meng. My pronouns are she/her, and I am a first year master o
 # What I hope to learn
 1. How to use data to enhance storytelling
 2. How to use color effectively in data visualization
+3. How data visualization can be used in marketing
 
 
 # Portfolio
@@ -36,6 +27,13 @@ Part III(final-project-part-three)
 
 ---
 ## Other stuff you can do (you can remove this section - it's just for your reference.)
+
+# TSWD-portfolio-templates
+These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
+It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
+
+- Web page URL: [https://cmustudent.github.io/tswd-portfolio-templates/](https://ada-meng.github.io/adameng-portfolio/)
+- This repository: [https://github.com/cmustudent/tswd-portfolio-templates/](https://github.com/ada-meng/adameng-portfolio)
 
 ### Changing text
 
