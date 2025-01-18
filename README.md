@@ -5,7 +5,7 @@ These portfolio templates are for setting up your Telling Stories with Data site
 It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
 
 - Web page URL: [https://cmustudent.github.io/tswd-portfolio-templates/](https://ada-meng.github.io/adameng-portfolio/)
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
+- This repository: [https://github.com/cmustudent/tswd-portfolio-templates/](https://github.com/ada-meng/adameng-portfolio)
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
