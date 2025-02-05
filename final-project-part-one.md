@@ -61,8 +61,11 @@ https://baghunter.com/blogs/news/investment-value-of-hermes
 LV Neverfull price change
 https://www.cloversac.com/louis-vuitton-neverfull-price-history-2025-prediction/?srsltid=AfmBOopDZrV4X7AzQgySNYThNtvD8ceRyj8EOD76B90-9VMPQvmSPyDc
 Finally, I will conclude my project to ask luxury to consider resale market as an opportunity to expand their target audience and leverage it to enhance their brand image.
-
 Sketches:
+
+
+
+
 <img width="561" alt="sketch1" src="https://github.com/user-attachments/assets/787809d9-4dd9-4cc7-a2e3-f400fa8badca" />
 <img width="585" alt="sketch2" src="https://github.com/user-attachments/assets/7a595d86-f8c8-4d31-8c99-5a48f223e3a5" />
 
