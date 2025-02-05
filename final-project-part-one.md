@@ -62,4 +62,8 @@ LV Neverfull price change
 https://www.cloversac.com/louis-vuitton-neverfull-price-history-2025-prediction/?srsltid=AfmBOopDZrV4X7AzQgySNYThNtvD8ceRyj8EOD76B90-9VMPQvmSPyDc
 Finally, I will conclude my project to ask luxury to consider resale market as an opportunity to expand their target audience and leverage it to enhance their brand image.
 
+Sketches:
+<img src="2.jpg" width="200"/>
+<img src="1.jpg" width="200"/>
+
 
