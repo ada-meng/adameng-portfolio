@@ -63,7 +63,7 @@ https://www.cloversac.com/louis-vuitton-neverfull-price-history-2025-prediction/
 Finally, I will conclude my project to ask luxury to consider resale market as an opportunity to expand their target audience and leverage it to enhance their brand image.
 
 Sketches:
-<img src="sketch2.jpg" width="200"/>  
+<img src="sketch2.jpg" width="200"/>
 <img src="sketch1.jpg" width="200"/>
 
 
