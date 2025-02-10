@@ -16,41 +16,34 @@ I selected this topic because I am interested in food culture. I was so surprise
 
 
 ## Step two: the critique
-I think, overall, the graph is pretty self-explanatory with a really descriptive title that sums up the overall observation of the study. However, aesthetic-wise the colors of the bars are too similar, which blurs the focus on the octopus bar. I also think that though adding a graphic of octopus with a fork does make the visualization more engaging, a cartoon might make the whole study less serious and formal. I also think that the context for the source of the data is insufficient since though it mentioned that they conducted survey among 1000 adults in the United States, it did not specify the demographic like whether they are animal activist, religious, or others, which could significantly affect the answers and lead to biases. 
+I think, overall, the graph is pretty self-explanatory with a really descriptive title that sums up the overall observation of the study. However, aesthetic-wise, the colors of the bars are too similar, which blurs the focus on the octopus bar. I also think that though adding a graphic of octopus with a fork does make the visualization more engaging, a cartoon might make the whole study less serious and formal. I also think that the context for the source of the data is insufficient since though it mentioned that they conducted a survey among 1000 adults in the United States, it did not specify the demographic like whether they are animal activists, religious, or others, which could significantly affect the answers and lead to biases. 
 
 
 ## Step three: Sketch a solution
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-
-Questions to ask (modify these for your own interviews): 
+Questions to ask : 
 
 - Can you tell me what you think this is?
-
+- Do you think the bar graph helps with this storytelling?
+- What do you think of the colors?
 - Can you describe to me what this is telling you?
-
+- What do you feel about making the result of the study as the title?
 - Is there anything you find surprising or confusing?
-
 - Who do you think is the intended audience for this?
-
+- Do you think the data is reliable?
 - Is there anything you would change or do differently?
 
 Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+Groupmates:
+student, Mism program
+student, MSPPM program
+student, urban planning program
 
 Synthesis: 
+I received the most feedback for my graphic, where though I changed the cartoon into an actual octopus cuisine picture, my groupmates found it very distracting and diluted the attention from my graph. I think for this problem, I will either insert the image into the octopus bar or just remove the picture for simplicity.
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
 
 ## Step five: build the solution
 
