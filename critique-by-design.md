@@ -21,6 +21,8 @@ I think, overall, the graph is pretty self-explanatory with a really descriptive
 
 ## Step three: Sketch a solution
 
+<img src="redesign.jpg" width="200"/>
+
 ## Step four: Test the solution
 
 Questions to ask : 
