@@ -44,7 +44,7 @@ student, MSPPM program
 student, urban planning program
 
 Synthesis: 
-I received the most feedback for my graphic, where though I changed the cartoon into an actual octopus cuisine picture, my groupmates found it very distracting and diluted the attention from my graph. I think for this problem, I will either insert the image into the octopus bar or just remove the picture for simplicity.
+I received the most feedback for my graphic, where though I changed the cartoon into an actual octopus cuisine picture, my groupmates found it very distracting and diluted the attention from my graph. I think for this problem, I will either insert the image into the octopus bar or just remove the picture for simplicity. Also, I was given feedback that, in addition to the numbers for the percentage of people who think eating octopus is unacceptable, they also want to see the numbers who think it is acceptable.
 
 
 ## Step five: build the solution
