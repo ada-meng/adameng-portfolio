@@ -8,60 +8,37 @@ Text here!
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+My Target audiences are luxury and luxuey consumer, and my call to action is to let brands view resale market as opportunity inseatd of competition and ask persuade the consumer to purchase from brands-certified resale store
 
-Text here!
+Interviews
+Person 1: 24 years old, Masters of Entertainment Industry Management Student, Female
+Person 2: 40 years old, Fashion and vintage enthusiast, Female
+Person 3: 22 years old, CMU student, Male
 
-## Interview script
-> List the goals from your research, and the questions you intend to ask. 
+What do you think the story is about?
+Person 1: You use cultural events like Met Gala to talk about consumer behavior shift to sustainable fashion and quiet luxury that increase demand for resale market.
+Person 2: The project talks about how fashion trends influence the resale market and why fashion brands should embrace the second-hand market as an opportunity rather than competition.
+Person 3: It talks about the Met Gala and the resale market?
+Do you think the sequence of the story flows?
+Person 1: Yes it flows, but I think the transition could be smoother since you are talking about The Met Gala then inflation, very different things
+Person 2: Yes! I like how you connect The Met Gala, something that I never thought of this connection, and I think it works really well. 
+Person 3: Kinda, though I think you can explain in the Met Gala part, maybe write a little description about each outfit? It would be better for people who have no knowledge about fashion.
+Do you think data reinforces my idea?
+Person 1: I think the luxury inflation part is especially convincing!
+Person 2 : I like the part where you show lines of how prices are inflated for three iconic brands.
+Person 3: I was surprised when I see the bag inflation chart. Can’t believe people are spending so much on a bag. Definitely matches your project.
+What do you think aesthetically?
+Person 1: I like the idea of a timeline, but maybe you could make it more engaging? Maybe add some interaction? I would like to see zoom-in pictures of the outfits.
+Person 2: I think the green color theme is great because you are talking about sustainability. Maybe adding some interaction?
+Person 3: It looks like a fashion project at the first sight so I like it.
+What else do you wish to see in this project?
+Person 1: I think maybe add some examples or data about the brands that have opened their own resale store? I think it would be more convincing to persuade other brands to do the same.
+Person 2: I think you could add some comparison between the retail and resale price.
+Person 3: Maybe add more background so that people who doesn’t know fashion would be more engaged.
 
-Text here!
-
-| Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
-
-
-Text here!
-
-## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
-Text here!
-
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+After reflecting both from the interview and the critique I get from class, I think I need to write more to provide better context and connect parts for a better story flow. I also decided to make my timeline more engaging and interactive, so people could really feel the comparison in themes between different years. I also want to add a call to action part at the end of my project to make the story more complete.
 
 
-# Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
-
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
-
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
-
-## References
-_List any references you used here._
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
