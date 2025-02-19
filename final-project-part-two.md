@@ -19,18 +19,26 @@ What do you think the story is about?
 Person 1: You use cultural events like Met Gala to talk about consumer behavior shift to sustainable fashion and quiet luxury that increase demand for resale market.
 Person 2: The project talks about how fashion trends influence the resale market and why fashion brands should embrace the second-hand market as an opportunity rather than competition.
 Person 3: It talks about the Met Gala and the resale market?
+
+
 Do you think the sequence of the story flows?
 Person 1: Yes it flows, but I think the transition could be smoother since you are talking about The Met Gala then inflation, very different things
 Person 2: Yes! I like how you connect The Met Gala, something that I never thought of this connection, and I think it works really well. 
 Person 3: Kinda, though I think you can explain in the Met Gala part, maybe write a little description about each outfit? It would be better for people who have no knowledge about fashion.
+
+
 Do you think data reinforces my idea?
 Person 1: I think the luxury inflation part is especially convincing!
 Person 2 : I like the part where you show lines of how prices are inflated for three iconic brands.
 Person 3: I was surprised when I see the bag inflation chart. Can’t believe people are spending so much on a bag. Definitely matches your project.
+
+
 What do you think aesthetically?
 Person 1: I like the idea of a timeline, but maybe you could make it more engaging? Maybe add some interaction? I would like to see zoom-in pictures of the outfits.
 Person 2: I think the green color theme is great because you are talking about sustainability. Maybe adding some interaction?
 Person 3: It looks like a fashion project at the first sight so I like it.
+
+
 What else do you wish to see in this project?
 Person 1: I think maybe add some examples or data about the brands that have opened their own resale store? I think it would be more convincing to persuade other brands to do the same.
 Person 2: I think you could add some comparison between the retail and resale price.
