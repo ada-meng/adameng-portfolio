@@ -3,7 +3,8 @@
 # Wireframes / storyboards
 > Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
-Short hand link: https://carnegiemellon.shorthandstories.com/The-Luxury-Resale--Market/index.html
+Short hand link: 
+https://carnegiemellon.shorthandstories.com/The-Luxury-Resale--Market/index.html
 # User research 
 
 ## Target audience
