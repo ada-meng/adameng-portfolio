@@ -5,7 +5,7 @@
 
 Short hand link: 
 
-(https://carnegiemellon.shorthandstories.com/The-Luxury-Resale%2D%2DMarket/index.html)
+https://carnegiemellon.shorthandstories.com/The-Luxury-Resale%2D%2DMarket/index.html
 # User research 
 
 ## Target audience
