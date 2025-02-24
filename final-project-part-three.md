@@ -19,6 +19,8 @@ The economic Influence: I showcase a graph with price inflation for three iconic
 
 Finally, I conclude with why should Brands care and how should brands respond?, followed by my call to action to ask brands to see resale as an opportunity rather than threat.
 
+I also realized that I was not able to use pictures from Getty image for Met Gala outfits because it requires copyright, so I changed them into color palette. It does not look as aesthetically pleasing, but I hope it still o
+
 
 ## The audience
 At first, my target audience was both the luxury customers and fashion brands. After discussing with my interviewees, I decideed to narrow my audience to simply the luxury brands since I did not have much data to convince customer to purchase from certified luxury resale store, and the order should be brands opening stores first, then they could start marketing towards customers.
